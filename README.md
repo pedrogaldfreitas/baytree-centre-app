@@ -2,6 +2,8 @@
 
 `A companion app for Baytree Centre mentors`
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/CbvZrlVXO2k/0.jpg)](https://www.youtube.com/watch?v=CbvZrlVXO2k)
+
 The Baytree Centre Mentor Portal is an application created for mentors to manage all of their needs involving their assigned mentee(s). Here, they can view their session history, clock in/out of sessions, complete monthly questionnaires, access Baytree Centre resources, and receive notifications from Baytree admins.
 
 ## Frontend
